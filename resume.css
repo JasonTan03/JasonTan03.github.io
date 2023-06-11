@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration-line: none;
+}
+
+html{
+    background-color: #F9F5F6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainBody{
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+    min-width: 1024px;
+    box-shadow: 0 0 37px 6px #000;
+}
+
+/*left side*/
+.left{
+    float: left;
+    height: 1000px;
+    width: 30%;
+    background-color: #66999B;
+    display: block;
+    margin-right: 20px;
+}
+
+img{
+    width: 90%;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.detail{
+    padding: 10px 15px 0 15px;
+}
+
+.cont{
+    margin-top: 10px;
+}
+.email{
+    margin-top: 10px;
+}
+
+ul{
+    list-style: none;
+    padding-left: 33px;
+    padding-top: 6px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+#c{
+    background: url('c.png');
+    background-repeat: no-repeat;
+    background-size: 27px;
+    height: 27px;
+}
+#ocl{
+    background: url('oracle.png');
+    background-repeat: no-repeat;
+    background-size: 27px;
+    height: 27px;
+}
+#htmls{
+    background: url('html.png');
+    background-repeat: no-repeat;
+    background-size: 27px;
+    height: 27px;
+
+}
+#css{
+    background: url('css.png');
+    background-repeat: no-repeat;
+    background-size: 27px;
+    height: 27px;
+
+}
+#js{
+    background: url('js.png');
+    background-repeat: no-repeat;
+    background-size: 27px;
+    height: 27px;
+
+}
+#ccc{
+    background: url('c++.png');
+    background-repeat: no-repeat;
+    background-size: 27px;
+    height: 27px;
+
+}
+
+/*right side*/
+.right{
+    width: 100%;
+    height: 1000px;
+    background-color: #F4ECD6;
+}
+
+.aboutMe{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 327px;
+    text-align: justify;
+}
+
+.edu{
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-left: 327px;
+}
+
+.exp{
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-left: 327px;
+}
+
+.eduleft{
+    float: left;
+    width: 50%;
+}
+#i{
+    padding-top: 8px;
+}
+#j{
+    padding-top: 13px;
+}
+.year{
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.expleft{
+    float: left;
+    width: 45%;
+    height: 200px;
+}
+
+/*header*/
+h3{
+    border-bottom: 2px solid black;
+    font-size: 25px;
+}
+h5{
+    font-size: 22px;
+}
+p{
+    font-size: 18px;
+}
